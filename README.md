@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/verifiqueme/web@master/src/assets/icon.png" width="123px" alt="verifica.me" align="right">
+<img src="https://qph.fs.quoracdn.net/main-qimg-7f98dd9dae16cb011521074368ef90d1" width="123px" alt="verifica.me" align="right">
 
 Teste 1 - Intimação Eletrônica
 =====
