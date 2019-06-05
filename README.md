@@ -46,7 +46,7 @@ A rotina deixa de processar a intimação eletrônica pois ainda consta com o ti
 **Caso de teste:**
 No cadastro de partes do processo, após a emissão da intimação eletrônica, é alterado Tipo de Parte da parte intimada e ocorre erro de processamento da rotina não alterando cdtipoparte na eedtselecaoato como está na efpgparte.
 
-**Teste**
+**Passo a Passo**
 
 **1** - Via SAJPG5, criar um processo
 
@@ -130,7 +130,7 @@ O usuário acessa no ADMPG5 o Apoio> Fluxo de Trabalho> "Painel de Configuraçã
 **Critérios de Aceite:** 
 Disponibilizar no ADMPG5 somente o que o usuário consegue adicionar no fluxo de trabalho (SAJPG5).
 
-**Teste**
+**Passo a Passo**
 
 **1** - Via SAJPG5, acessar módulo Andamento
 
@@ -192,7 +192,7 @@ O usuário acessa no ADMPG5 o Apoio> Fluxo de Trabalho> "Painel de Configuraçã
 **Critérios de Aceite:** 
 Checkbox "Criar configuração personalizada de colunas" marcada, não deve mostrar todas as colunas do agrupamento TODAS.
 
-**Teste** 
+**Passo a Passo** 
 
 **1** - Via SAJPG5, acessar módulo Andamento
 
